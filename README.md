@@ -12,7 +12,7 @@ Cloud Engineering / DevOps-focused developer, working toward becoming a Solution
 
 ## 👨‍💻 What's Happening
 
-- 🎯 Studying for **AWS Solutions Architect Associate (SAA-C03)**
+- ☁️ **AWS Certified Solutions Architect – Associate** (SAA-C03)
 - 🌱 Working in **Python** and **Go**
 - 🏠 Running my own home lab / NAS: Docker, Jellyfin, self-hosted services
 - 💻 Recently built **[Magi](https://github.com/1thda/magi)**: multi-model research paper summarizer running on local LLMs
