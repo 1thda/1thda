@@ -28,6 +28,18 @@ Cloud Engineering / DevOps-focused developer, working toward becoming a Solution
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </p>
 
+## 🎧 On Repeat
+
+Coding to Nujabes. Jazzy samples, calm head, deep focus.
+
+| Track | Why |
+|---|---|
+| Aruarian Dance | Debugging at 1am |
+| Feather | Deep work mode |
+| Reflection Eternal | Shipping day |
+
+*Album: Metaphorical Music*
+
 ## 💡 Projects
 
 <table>
